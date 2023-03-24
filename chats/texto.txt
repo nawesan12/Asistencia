@@ -1,0 +1,501 @@
+09:03:09 From  Facundo Fernandez  to  Everyone:
+	yo no escucho nada
+09:03:55 From  Lautaro PC  to  Everyone:
+	Holaa
+09:04:08 From  Lucas Herrera  to  Everyone:
+	nadie jajajaaj
+09:04:10 From  Lautaro PC  to  Everyone:
+	Qué es dormir?
+09:04:52 From  Lautaro PC  to  Everyone:
+	Con huevo???
+09:04:59 From  Lautaro PC  to  Everyone:
+	xD
+09:05:14 From  Lautaro PC  to  Everyone:
+	Disfrutalo xd
+09:05:29 From  Lautaro PC  to  Everyone:
+	Aguante el café
+09:05:53 From  Chavez Matias  to  Everyone:
+	40735224
+09:05:54 From  joel_  to  Everyone:
+	46112014
+09:05:55 From  Franco Torres  to  Everyone:
+	44858947
+09:05:55 From  Yanina Aviles  to  Everyone:
+	35043104
+09:05:55 From  Lucas Herrera  to  Everyone:
+	42454326
+09:05:56 From  Franco Triboulard  to  Everyone:
+	46814734
+09:05:57 From  Lucas Lawrie  to  Everyone:
+	44145363
+09:05:58 From  Carlo Ortiz  to  Everyone:
+	41306884
+09:05:58 From  Lautaro PC  to  Everyone:
+	43862923
+09:05:58 From  Mateo Camilion  to  Everyone:
+	46639525
+09:05:59 From  Gaston Cauterccio  to  Everyone:
+	45031034
+09:05:59 From  joaquin goizueta  to  Everyone:
+	38922452
+09:06:02 From  Francisco Cejas  to  Everyone:
+	41430135
+09:06:02 From  Luciano Pigliacampo  to  Everyone:
+	39741206
+09:06:03 From  Bauti Andersch  to  Everyone:
+	46564631
+09:06:03 From  Facundo Fernandez  to  Everyone:
+	43312622
+09:06:03 From  martina padovani  to  Everyone:
+	45034502
+09:06:05 From  Gonzalo Lencina  to  Everyone:
+	45923206
+09:06:05 From  Santiago Iglesias  to  Everyone:
+	41783531|
+09:06:06 From  Joaco  to  Everyone:
+	43657617
+09:06:08 From  Samsung SM-A536B  to  Everyone:
+	39282927
+09:06:08 From  gaston abtt  to  Everyone:
+	44169389
+09:06:13 From  Franco Thevenet  to  Everyone:
+	45031193
+09:06:16 From  Santiago Iglesias  to  Everyone:
+	41783531
+09:06:48 From  Tomas Peralta  to  Everyone:
+	42597422
+09:06:57 From  Gonzalo Lencina  to  Everyone:
+	Falta luca basallo
+09:07:03 From  Gonzalo Lencina  to  Everyone:
+	Supuestamente mando la solicitud
+09:07:13 From  Lucas Herrera  to  Everyone:
+	Replying to "Supuestamente mando ..."
+	
+	no puede entrar dice
+09:08:16 From  Gonzalo Lencina  to  Everyone:
+	43386933
+09:08:23 From  Gonzalo Lencina  to  Everyone:
+	ese es el de luca basallo
+09:08:39 From  Gonzalo Lencina  to  Everyone:
+	esta prendiendo la compu
+09:08:41 From  Lucas Herrera  to  Everyone:
+	se le sale dice
+09:08:41 From  Gonzalo Lencina  to  Everyone:
+	jajajaja
+09:09:48 From  Damian Marcelo Diaz Santiago - Mar del Plata  to  Everyone:
+	39098340
+09:10:05 From  Matias Correa  to  Everyone:
+	46112846
+09:10:06 From  Brayan Martin  to  Everyone:
+	40255084
+09:10:20 From  Franco Magliotti  to  Everyone:
+	37867557
+09:11:48 From  Fiamma  to  Everyone:
+	www.menti.com
+09:13:22 From  EspacioDEV UTN FRMDP  to  Everyone:
+	5760 1237
+09:14:30 From  Lautaro PC  to  Everyone:
+	ahh ok
+09:15:46 From  Lautaro PC  to  Everyone:
+	Ahora me llamo Abriel xD
+09:16:07 From  Lautaro PC  to  Everyone:
+	Listoo
+09:18:50 From  Lautaro PC  to  Everyone:
+	Ah, yo escribí pero hay que enviar
+09:18:57 From  Lautaro PC  to  Everyone:
+	creo que no se envió
+09:19:15 From  Lautaro PC  to  Everyone:
+	F
+09:20:06 From  Lautaro PC  to  Everyone:
+	AL FIN UNA BIEN
+09:20:08 From  Lautaro PC  to  Everyone:
+	ah
+09:22:34 From  Luca Basallo  to  Everyone:
+	JAJAJAJJA
+09:24:04 From  Yanina Aviles  to  Everyone:
+	🥳🥳😅
+09:24:21 From  Lautaro PC  to  Everyone:
+	Claaaro, ahora había sol ahí
+09:31:39 From  Lautaro PC  to  Everyone:
+	Loco, acá igual
+09:32:17 From  Fiamma  to  Everyone:
+	(win + r es la ventana de comandos, la otra es power Shell )
+09:40:16 From  Fiamma  to  Everyone:
+	en win + r se escribe 'cmd' y abre la consola negra para acceder a distintas partes de la pc, cambiar permisos, crear carpetas, acceder a ellas, "recorrerlas", iniciar los comandos para tener la base de un código, etc
+09:40:28 From  Fiamma  to  Everyone:
+	Eso lo veremos más adelante!
+09:40:57 From  Bauti Andersch  to  Everyone:
+	Reacted to "en win + r se escrib..." with 👍
+09:54:27 From  Fiamma  to  Everyone:
+	10.10 aca nuevamente!
+09:54:48 From  Luca Basallo  to  Everyone:
+	joyaa
+09:55:15 From  Fiamma  to  Everyone:
+	empieza el recreo
+09:55:38 From  EspacioDEV UTN FRMDP  to  Everyone:
+	bash
+09:57:15 From  Lautaro PC  to  Everyone:
+	Okk
+09:58:59 From  joaquin goizueta  to  Everyone:
+	.
+09:58:59 From  Damian Marcelo Diaz Santiago - Mar del Plata  to  Everyone:
+	.♥
+09:59:00 From  Juan Eyherabide  to  Everyone:
+	.
+09:59:06 From  Yanina Aviles  to  Everyone:
+	Solo chat gpt jajaj
+09:59:11 From  Matias Correa  to  Everyone:
+	.
+09:59:32 From  Brayan Martin  to  Everyone:
+	no pero pongo un .
+10:00:11 From  Brayan Martin  to  Everyone:
+	me gusta esa info
+10:00:41 From  Yanina Aviles  to  Everyone:
+	muy bueno!
+10:00:50 From  Franco Magliotti  to  Everyone:
+	muy bueno
+10:00:54 From  Lucas Lawrie  to  Everyone:
+	escuche de eso, se hizo viral que le iba a sacar el trabajo a los diseñadores graficos se decia
+10:01:21 From  Juan Eyherabide  to  Everyone:
+	osea no saca e laburo
+10:01:25 From  Lucas Lawrie  to  Everyone:
+	si le decis que te diseñe una web lo hace? jajaja
+10:01:31 From  EspacioDEV UTN FRMDP  to  Everyone:
+	chat.openai.com
+10:08:28 From  Lautaro PC  to  Everyone:
+	Yo me duermo si hago eso xD
+10:09:05 From  Juan Eyherabide  to  Everyone:
+	Aca el de sierra
+10:09:21 From  Lautaro PC  to  Everyone:
+	xDDD
+10:09:23 From  Juan Eyherabide  to  Everyone:
+	olvidate
+10:09:39 From  Ariel Cousiño  to  Everyone:
+	39282927
+10:09:54 From  Franco Magliotti  to  Everyone:
+	vamooo
+10:10:05 From  Juan Eyherabide  to  Everyone:
+	hay q pasar el dni?
+10:10:17 From  Facundo Fernandez  to  Everyone:
+	van a haber exámenes mas adelante?
+10:10:44 From  Juan Eyherabide  to  Everyone:
+	44 956 956
+10:11:00 From  Brayan Martin  to  Everyone:
+	Messi !!!!
+10:11:07 From  Facundo Fernandez  to  Everyone:
+	react es una librería, es lo mismo que un frame?
+10:12:13 From  Lucas Lawrie  to  Everyone:
+	Una consulta, quería saber si mi notebook va a servir, es un i3 6100 con 8gb de ram
+10:15:41 From  Damian Marcelo Diaz Santiago - Mar del Plata  to  Everyone:
+	Si lucas, estás re bien
+10:15:42 From  Lautaro PC  to  Everyone:
+	Como el world, pero quién paga el world? xD
+10:16:02 From  Fiamma  to  Everyone:
+	Word xd
+10:16:18 From  Lautaro PC  to  Everyone:
+	Bruh, estoy dormido jaja
+10:16:25 From  Fiamma  to  Everyone:
+	np
+10:18:05 From  Franco Torres  to  Everyone:
+	A mi me paso una vez
+10:18:35 From  Lucas Lawrie  to  Everyone:
+	Nosotros vamos a usar Linux en el curso?
+10:21:58 From  Brayan Martin  to  Everyone:
+	que tiene algo de bueno la versión paga de Linux?
+10:22:40 From  Ariel Cousiño  to  Everyone:
+	Falto el interfaz de Linux 👍🏼
+10:23:45 From  Fiamma  to  Everyone:
+	si gustan usen https://docs.google.com antes que el pack de office porque es online, podes guardar los docs en el drive con tu mail y acceder desde cualquier compu,:)
+10:24:56 From  Lautaro PC  to  Everyone:
+	Reacted to "si gustan usen https..." with 👍
+10:29:23 From  gaston abtt  to  Everyone:
+	en arch te tenes que crear tu propia interfaz?
+10:29:27 From  Lautaro PC  to  Everyone:
+	Veo que la mayoría de sistemas en intermedio, fueron hechos con Arch
+10:30:03 From  Lucas Lawrie  to  Everyone:
+	Consulta, que significan las siglas DIY que figura en Hard Mode
+10:32:40 From  Fiamma  to  Everyone:
+	do it yourself
+10:32:52 From  Luca Basallo  to  Everyone:
+	Reacted to "do it yourself" with 😯
+10:32:52 From  gaston abtt  to  Everyone:
+	hay un youtuber s4avitar es un ing informatico que usa arch por eso preguntaba porque el chabón diseño todo
+10:34:15 From  Fiamma  to  Everyone:
+	un genio !!
+10:44:06 From  Ariel Cousiño  to  Everyone:
+	Memoria ?
+10:44:09 From  Lucas Lawrie  to  Everyone:
+	no tener cable de internet?
+10:44:11 From  Lautaro PC  to  Everyone:
+	El tamaño de la interfaz?
+10:44:14 From  Facundo Fernandez  to  Everyone:
+	la adaptación de la pantalla
+10:44:20 From  Lucas Herrera  to  Everyone:
+	supongo que no podes correr el mismo software
+10:44:20 From  joaquin goizueta  to  Everyone:
+	portabilidad de so
+10:44:34 From  Matias Correa  to  Everyone:
+	Los distintos recursos de celulares
+10:44:50 From  Lautaro PC  to  Everyone:
+	Tenés que usar una pc para llevarlo al celular?
+10:44:53 From  gaston abtt  to  Everyone:
+	la red
+10:49:23 From  Lautaro PC  to  Everyone:
+	$500.000 pesos
+10:49:28 From  Lautaro PC  to  Everyone:
+	un millón
+10:49:31 From  Lautaro PC  to  Everyone:
+	barato
+10:50:02 From  Lautaro PC  to  Everyone:
+	Perfecto para hacer un servidor de Garry's Mod
+10:50:08 From  Lautaro PC  to  Everyone:
+	Holaa
+10:50:24 From  Lautaro PC  to  Everyone:
+	Bieen
+10:53:18 From  gaston abtt  to  Everyone:
+	Replying to "Perfecto para hacer ..."
+	
+	csgo
+10:54:50 From  Lautaro PC  to  Everyone:
+	Todo eso son servidores y son computadoras entonces... Nuestras computadoras son consideradas servidores ¿no?
+10:54:56 From  Lautaro PC  to  Everyone:
+	Gracias Pabloo
+10:55:32 From  Lautaro PC  to  Everyone:
+	Okk 👍
+10:55:39 From  Brayan Martin  to  Everyone:
+	pablo genio !!
+11:01:54 From  Lautaro PC  to  Everyone:
+	Ahh
+11:04:10 From  Luca Basallo  to  Everyone:
+	remotas
+11:09:49 From  Lautaro PC  to  Everyone:
+	No pensé que literalmente eran cable xD
+11:10:05 From  Ariel Cousiño  to  Everyone:
+	Cables de fibra óptica
+11:10:28 From  Lautaro PC  to  Everyone:
+	Me sorprende que estén en medio del océano
+11:10:30 From  Lucas Lawrie  to  Everyone:
+	y yo que saque 80 capturas jaja
+11:10:52 From  gaston abtt  to  Everyone:
+	Replying to "y yo que saque 80 ca..."
+	
+	jajaja yo tmabien
+11:11:11 From  Gaston Cauterccio  to  Everyone:
+	x donde mandan las dp?
+11:12:55 From  Prof. Pablo Fiore  to  Everyone:
+	En esos cables la información viaja a la velocidad de la luz. Esta respuesta va a viajar hasta el servidor de USA de zoom y va a volver a ustedes en poco menos de 3 segundos.
+11:14:00 From  Lucas Lawrie  to  Everyone:
+	es lo mismo un servidor que un host?, a lo que me refiero es que yo antes tenia un server de un juego propio, el cual me mandaban una clave para una aplicación en la que accedia a una pc remota con Windows donde estaban los archivos del juego para modificarlo, a eso le llamaban host, eso seria lo mismo que un server de los que explicas no?
+11:15:04 From  Lautaro PC  to  Everyone:
+	Cómo se la saben del Hamachi xDDD
+11:15:15 From  Lucas Lawrie  to  Everyone:
+	nono no era hamachi
+11:15:34 From  Lucas Lawrie  to  Everyone:
+	El buen hamachi para cs jaja
+11:15:40 From  Damian Marcelo Diaz Santiago - Mar del Plata  to  Everyone:
+	Puede ser TeamViewer o AnyDesk, hay bastantes hoy en día muy buenos, hasta Google Remote
+11:15:44 From  Lucas Herrera  to  Everyone:
+	ahora la moda es athernos para el maicra jajajaja
+11:16:02 From  Lautaro PC  to  Everyone:
+	Cómo se la saben del Hamachi xDDD
+	No lo decía en forma de pregunta, bueno no importa xdd
+11:16:24 From  Lautaro PC  to  Everyone:
+	Replying to "El buen hamachi para..."
+	
+	Yo lo usaba para el Left 4 Dead
+11:16:29 From  gaston abtt  to  Everyone:
+	van a hacer un discord?
+11:16:41 From  Lucas Lawrie  to  Everyone:
+	Replying to "El buen hamachi para..."
+	
+	juegazo
+11:16:41 From  Lautaro PC  to  Everyone:
+	Reacted to "ahora la moda es ath..." with 😂
+11:17:13 From  Lautaro PC  to  Everyone:
+	Replying to "El buen hamachi para..."
+	
+	Extraño esos tiempos que aplastaba a mis amigos con el tank :,)
+11:17:49 From  Lucas Lawrie  to  Everyone:
+	Replying to "El buen hamachi para..."
+	
+	yo le tengo ganas al back 4 blood
+11:18:16 From  Lautaro PC  to  Everyone:
+	El primer curso que usan Discord jaja
+11:18:17 From  Brayan Martin  to  Everyone:
+	.
+11:18:25 From  gaston abtt  to  Everyone:
+	d1
+11:18:43 From  Brayan Martin  to  Everyone:
+	dalee
+11:18:47 From  Ariel Cousiño  to  Everyone:
+	Yo tampoco lo use
+11:18:53 From  Juan Eyherabide  to  Everyone:
+	x2
+11:18:55 From  Facundo Fernandez  to  Everyone:
+	yo tampoco
+11:19:19 From  Lautaro PC  to  Everyone:
+	Está buenísimo Discord
+11:19:58 From  Lucas Lawrie  to  Everyone:
+	esta define sin importar la posición anterior?
+11:20:35 From  EspacioDEV UTN FRMDP  to  Everyone:
+	menti.com
+11:20:44 From  Fiamma  to  Everyone:
+	7106684
+11:20:48 From  EspacioDEV UTN FRMDP  to  Everyone:
+	7106 6684
+11:21:46 From  Ariel Cousiño  to  Everyone:
+	Cual era el número? Para la encuesta
+11:22:00 From  Lautaro PC  to  Everyone:
+	Replying to "Cual era el número? ..."
+	
+	7106 6684
+11:22:01 From  Lucas Lawrie  to  Everyone:
+	Replying to "Cual era el número? ..."
+	
+	7106 6684
+11:22:36 From  Lautaro PC  to  Everyone:
+	no xD
+11:22:38 From  Juan Eyherabide  to  Everyone:
+	no
+11:22:52 From  Lautaro PC  to  Everyone:
+	Qué emoción loco jaja
+11:23:51 From  Luciano Pigliacampo  to  Everyone:
+	hay grupo de whastapp?
+11:23:52 From  Facundo Fernandez  to  Everyone:
+	mi tampco
+11:24:00 From  Lautaro PC  to  Everyone:
+	uhh
+11:24:35 From  gaston abtt  to  Everyone:
+	Replying to "hay grupo de whastap..."
+	
+	si
+11:25:03 From  Lautaro PC  to  Everyone:
+	jaja
+11:25:10 From  Lucas Lawrie  to  Everyone:
+	messi
+11:25:12 From  Luciano Pigliacampo  to  Everyone:
+	2235957520 no pude ir a la clase del lunes
+11:26:09 From  Fiamma  to  Everyone:
+	https://chat.whatsapp.com/EhQusjBF7r60nxQUQ2ktUK
+11:26:31 From  Luciano Pigliacampo  to  Everyone:
+	Replying to "https://chat.whatsap..."
+	
+	dale gracias
+11:26:33 From  Lucas Lawrie  to  Everyone:
+	creo que la falle
+11:26:41 From  Lautaro PC  to  Everyone:
+	Tardé mucho
+11:26:53 From  Lucas Lawrie  to  Everyone:
+	si la pegue vamos
+11:27:09 From  Lautaro PC  to  Everyone:
+	jajaja
+11:27:21 From  Lautaro PC  to  Everyone:
+	El tiempo te pone presión xDDD
+11:27:42 From  Lautaro PC  to  Everyone:
+	ahhh
+11:27:46 From  Lautaro PC  to  Everyone:
+	bueeeno
+11:28:56 From  Lautaro PC  to  Everyone:
+	siiii
+11:29:18 From  Yanina Aviles  to  Everyone:
+	de apurada jajajaj
+11:29:22 From  Lucas Lawrie  to  Everyone:
+	jajaja cai ante el mejor
+11:29:33 From  Lautaro PC  to  Everyone:
+	Si respondiera rápido estaría mejor xD
+11:29:52 From  Fiamma  to  Everyone:
+	🤣
+11:30:19 From  Yanina Aviles  to  Everyone:
+	cai cai jajjaaj
+11:30:23 From  Lautaro PC  to  Everyone:
+	Almenos aparezco
+11:30:45 From  Chavez Matias  to  Everyone:
+	UwUntu
+11:30:48 From  Chavez Matias  to  Everyone:
+	jaja
+11:30:49 From  Lucas Lawrie  to  Everyone:
+	Android😅
+11:31:13 From  Lautaro PC  to  Everyone:
+	Obviamente Uwwuntu
+11:31:17 From  Lucas Lawrie  to  Everyone:
+	Uwuntu me suena a japones
+11:32:16 From  Facundo Fernandez  to  Everyone:
+	tampoco me deja contestar
+11:32:25 From  Lautaro PC  to  Everyone:
+	noooo
+11:32:31 From  Bauti Andersch  to  Everyone:
+	missclick
+11:32:37 From  Lautaro PC  to  Everyone:
+	Me encantó el Maincra de fondo xDD
+11:32:39 From  Santiago Iglesias  to  Everyone:
+	Me dijo que respondi muy rápido y me sacó 🥲
+11:32:45 From  Lautaro PC  to  Everyone:
+	Entendí la referencia
+11:32:49 From  Lautaro PC  to  Everyone:
+	a
+11:32:59 From  Luciano Pigliacampo  to  Everyone:
+	Replying to "Me dijo que respondi..."
+	
+	x2
+11:33:33 From  Lautaro PC  to  Everyone:
+	Volví al puesto 11...
+11:33:33 From  Yanina Aviles  to  Everyone:
+	🥳😁
+11:33:53 From  Franco Torres  to  Everyone:
+	Yo me quedo feliz de terminar en el puesto 6 jaja
+11:34:07 From  Prof. Pablo Fiore  to  Everyone:
+	Jajjaaja
+11:34:15 From  Lucas Lawrie  to  Everyone:
+	la pelea va a ser por quien entra cuarto
+11:34:16 From  Lautaro PC  to  Everyone:
+	Loco, estaba en el puesto 11 para subir al 3 para luego volver al 11 xD
+11:34:17 From  Prof. Pablo Fiore  to  Everyone:
+	Ya me engancharon
+11:46:44 From  Lucas Lawrie  to  Everyone:
+	no es el peso del trbajo, es la responsabilidad que tienen
+11:59:24 From  Lautaro PC  to  Everyone:
+	Y a todo esto ¿Dónde los programadores suelen buscar el trabajo?
+11:59:29 From  Brayan Martin  to  Everyone:
+	gracias por todo chicos !!!
+11:59:35 From  Lucas Herrera  to  Everyone:
+	muy claro todoo, gracias
+11:59:44 From  Lautaro PC  to  Everyone:
+	Ahh ok
+11:59:51 From  Gonzalo Lencina  to  Everyone:
+	gracias por todo chicoos
+11:59:54 From  Ariel Cousiño  to  Everyone:
+	Muchqs Gracias 👋 hasta el lunes
+12:00:05 From  Lucas Lawrie  to  Everyone:
+	twitter para buscar trabajo? ni me lo ubiece imaginado
+12:00:05 From  Franco Torres  to  Everyone:
+	Nos vemos el lunes, gracias por todo
+12:00:06 From  Facundo Fernandez  to  Everyone:
+	Muchas gracias chicossssss
+12:00:06 From  Lautaro PC  to  Everyone:
+	Dale
+12:00:07 From  Juan Eyherabide  to  Everyone:
+	nos vemosss
+12:00:08 From  Franco Thevenet  to  Everyone:
+	Nos vemos!
+12:00:08 From  Lucas Lawrie  to  Everyone:
+	nos vemos
+12:00:09 From  Luca Basallo  to  Everyone:
+	adioss
+12:00:11 From  Lautaro PC  to  Everyone:
+	Nos vemos, graciaas
+12:00:11 From  Matias Correa  to  Everyone:
+	Muchas gracias chicos nos vemos el lunes
+12:00:14 From  Santiago Iglesias  to  Everyone:
+	chauuu buen finde!!
+12:00:16 From  martina padovani  to  Everyone:
+	chau graciass
+12:00:23 From  Santiago Iglesias  to  Everyone:
+	muchas graciasss
+12:00:37 From  Franco Magliotti  to  Everyone:
+	excelente la clase! muchas gracias
+12:00:39 From  Joaco  to  Everyone:
+	Dalw muchas gracias
+12:00:59 From  joel_  to  Everyone:
+	chau muchas gracias
+12:01:04 From  Lautaro PC  to  Everyone:
+	Chaauu

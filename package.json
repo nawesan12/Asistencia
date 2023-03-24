@@ -1,0 +1,20 @@
+{
+  "name": "asistencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asistencia.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsc && node ./build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.6",
+    "prisma": "^4.11.0",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.11.0"
+  }
+}
