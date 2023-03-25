@@ -9,6 +9,6 @@ export const applyAssistance = (dni: string) => {
       }
     }
   })
-  .then(() => console.log("Updated student!"))
-  .catch(() => console.log("There was an error updating the assistance of the student!", dni))
+  .then(() => console.log("Assistance applied!"))
+  .catch(() => console.log(`There was an error applying the assistance of the student: ${dni}`))
 }
