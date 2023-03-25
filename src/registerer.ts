@@ -7,29 +7,21 @@ let studentsFileContent: any = []
   
 const sheets = file.SheetNames
   
-for(let i = 0; i < sheets.length; i++)
-{
-   const temp = reader.utils.sheet_to_json(
-        file.Sheets[file.SheetNames[i]])
-   temp.forEach((res) => {
-      studentsFileContent.push(res)
-   })
+for(let i = 0; i < sheets.length; i++) {
+  const temp = reader.utils.sheet_to_json(file.Sheets[file.SheetNames[i]])
+  temp.forEach((res) => studentsFileContent.push(res))
 }
   
-// Printing data
 const students = studentsFileContent.map((e: any) => { 
   const values = Object.values(e)
 
-  if(values[0] === "Orden" || values[1] === undefined) return
+  if(values.includes(undefined) || values.includes("Orden")) return
 
-  return { dni: values[1], name: values[3], surname: values[2] } 
+  return { dni: values[1], surname: values[2], name: values[3] } 
 })
 
 students?.forEach((student: { dni: number, name: string, surname: string }) => {
-
-  prisma.user.create({
-    data: student
-  })
-  .then(data => console.log(data.name))
-  .catch(err => console.log(student, err))
+  prisma.user.create({ data: student })
+    .then(data => console.log(`Student ${data.name} uploaded succesfully!`))
+    .catch(err => console.log(`There was an error uploading the student: ${student}!`, err))
 })
