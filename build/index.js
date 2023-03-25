@@ -1,10 +1,6 @@
 import { readdir, readFile } from "fs";
-import { PrismaClient } from "@prisma/client";
-const prisma = new PrismaClient();
+import { prisma } from "./database/client.js";
 const dniRegex = /[0-9]{8}/g;
-// An iteration over the Chats folder allows the code to 
-// recognize each chat file so it can be scanned to find 
-// every student present in class
 readdir("chats", { encoding: "utf-8" }, (err, chatFiles) => {
     if (err) {
         console.log("There was an error reading the directory!");
@@ -16,19 +12,22 @@ readdir("chats", { encoding: "utf-8" }, (err, chatFiles) => {
                 return;
             }
             const matches = content.match(dniRegex);
-            matches?.forEach(async (dni) => {
-                const updatedUser = await prisma.user.update({
-                    where: { dni: dni },
+            const uniqueMatches = [...new Set(matches)];
+            uniqueMatches?.forEach((dni) => {
+                prisma.user.update({
+                    where: { dni: Number(dni) },
                     data: {
                         assistances: {
                             increment: 1
                         }
                     }
+                })
+                    .then((data) => {
+                    console.log("Updated student!");
+                })
+                    .catch((err) => {
+                    console.log("There was an error updating the assistance of the student!", err);
                 });
-                if (!updatedUser) {
-                    console.log("There was an error updating the assistance of the student!");
-                    return;
-                }
             });
         });
     });

@@ -1,7 +1,6 @@
 import { readdir, readFile } from "fs"
-import { PrismaClient } from "@prisma/client"
+import { prisma } from "./database/client.js"
 
-const prisma: PrismaClient = new PrismaClient()
 const dniRegex: RegExp = /[0-9]{8}/g
 
 readdir("chats", { encoding: "utf-8" }, (err, chatFiles) => {
@@ -13,28 +12,29 @@ readdir("chats", { encoding: "utf-8" }, (err, chatFiles) => {
 
     readFile(`chats/${filename}` as string, "utf-8", (err, content: string) => {
       if (err) {
-        console.log("There was an error reading the file!")
+        console.log("There was an error reading the file!", err)
         return
       }
 
-      const matches: RegExpMatchArray | null = content.match(dniRegex)
+      const matches: RegExpMatchArray | null = content.match(dniRegex as RegExp)
+      const uniqueMatches = [...new Set(matches)]
 
-      matches?.forEach(async (dni: string) => {
-        const updatedUser = await prisma.user.update({
-          where: { dni: dni as string},
+      uniqueMatches?.forEach((dni: string) => {
+        prisma.user.update({
+          where: { dni: Number(dni) as number},
           data: {
             assistances: {
               increment: 1 as number
             }
           }
         })
-
-        if(!updatedUser) {
-          console.log("There was an error updating the assistance of the student!")
-          return
-        }
+        .then(() => {
+          console.log("Updated student!")
+        })
+        .catch(() => {
+          console.log("There was an error updating the assistance of the student!", dni)
+        })
       })
     })
-
   })
 })

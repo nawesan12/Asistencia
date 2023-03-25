@@ -12,7 +12,7 @@ model User {
   id       Int       @id @default(autoincrement())
   name     String
   surname  String
-  dni      String    @unique
+  dni      Int    @unique
   assistances Int    @default(0)
   role     User_role @default(STUDENT)
 }
