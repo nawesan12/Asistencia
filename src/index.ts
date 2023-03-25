@@ -1,6 +1,6 @@
 import { readdir } from "fs"
-import { applyAssistance } from "./utils/database.js"
 import { parseAssistances } from "./utils/file.js"
+import { applyAssistance } from "./utils/database.js"
 
 const app = () => {
   readdir("chats", { encoding: "utf-8" }, (err, chatFiles) => {
