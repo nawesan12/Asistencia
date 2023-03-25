@@ -1,40 +1,21 @@
 import { readdir, readFile } from "fs"
-import { prisma } from "./database/client.js"
-
-const dniRegex: RegExp = /[0-9]{8}/g
+import { dniRegex } from "./utils/regex.js"
+import { applyAssistance } from "./utils/database.js"
 
 readdir("chats", { encoding: "utf-8" }, (err, chatFiles) => {
-  if (err) {
-    console.log("There was an error reading the directory!")
-  }
+  if (err) return console.log("There was an error reading the directory!")
 
   chatFiles?.forEach((filename) => {
 
     readFile(`chats/${filename}` as string, "utf-8", (err, content: string) => {
-      if (err) {
-        console.log("There was an error reading the file!", err)
-        return
-      }
+      if (err) return console.log("There was an error reading the file!", err)
+      
+      const matches: string[] | null = [...new Set(content.match(dniRegex as RegExp))]
 
-      const matches: RegExpMatchArray | null = content.match(dniRegex as RegExp)
-      const uniqueMatches = [...new Set(matches)]
-
-      uniqueMatches?.forEach((dni: string) => {
-        prisma.user.update({
-          where: { dni: Number(dni) as number},
-          data: {
-            assistances: {
-              increment: 1 as number
-            }
-          }
-        })
-        .then(() => {
-          console.log("Updated student!")
-        })
-        .catch(() => {
-          console.log("There was an error updating the assistance of the student!", dni)
-        })
+      matches?.forEach((dni: string) => {
+        applyAssistance(dni as string)
       })
     })
+
   })
 })
